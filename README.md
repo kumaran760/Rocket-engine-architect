@@ -58,6 +58,8 @@ The physics engine supports three distinct nozzle types:
     ```bash
     pyinstaller --noconsole --onefile --collect-all customtkinter --name "RocketEngineApp" main.py
     ```
+## created with the help of gemini3
+  **used for clearing out the errors my code generated.**
 
 ## 📐 Physics Validation
 The tool assumes ideal gas behavior and isentropic flow for initial sizing.
